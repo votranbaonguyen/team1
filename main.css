@@ -70,8 +70,9 @@ h1{
     transform: translate(-50%, -50%);
     transition: all 0.3s linear;
     left: 50%;
-    width: 100%
-    ;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: bold;
     flex-wrap: nowrap;
 }
 
