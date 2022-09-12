@@ -327,3 +327,6 @@ h1{
 #exercise .exercise-one:hover .exercise-info {
     opacity: 1;
 }
+#exercise .exercise-one .exercise-info a{
+    text-decoration: none;
+}
