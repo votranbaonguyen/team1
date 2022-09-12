@@ -313,11 +313,16 @@ h1{
     opacity: 0;
     transition: all 0.3s ease;
 }
+
+#exercise .exercise-one .exercise-info p:hover{
+    opacity: 0.6;
+}
+
 #exercise .exercise-one .exercise-info p{
     margin-bottom: 10px;
     font-size: 30px;
+    transition: all 0.5s ease;
     color: #f0e6d2;
-    
 }
 
 #exercise .exercise-one .exercise-info h3{
@@ -331,4 +336,6 @@ h1{
 }
 #exercise .exercise-one .exercise-info a{
     text-decoration: none;
+    color: #f0e6d2;
+
 }
